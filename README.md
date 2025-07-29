@@ -2,9 +2,7 @@
 
 A personal portfolio landing page designed for Francesco Gioia, a fashion photographer based in London. This modern, minimal design highlights key information such as an introduction, social links, gallery access, and contact options.
 
-## 🖼️ Preview
-
-![Francesco Gioia Portfolio Preview](./screenshot.jpg)  
+## 🖼️ Preview 
 > *"Hello, I'm Francesco Gioia" – A creative and bold portfolio welcome screen.*
 
 ## 🚀 Features
